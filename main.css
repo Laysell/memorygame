@@ -3,6 +3,16 @@ body {
     background-color: #6b6b6b;
 }
 
+#startButton {
+    height: 80px;
+    width: 200px;
+}
+
+#restartButton {
+    height: 80px;
+    width: 200px;
+}
+
 table {
     margin: auto;
     height: auto;
