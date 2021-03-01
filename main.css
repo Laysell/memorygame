@@ -1,0 +1,27 @@
+body {
+    font-family: sans-serif;
+    background-color: #6b6b6b;
+}
+
+table {
+    margin: auto;
+    height: auto;
+    width: auto;
+    border: solid thin black;
+    border-collapse: collapse;
+}
+
+td{
+    height: 100px;
+    width: 100px;
+    border: solid thin black;
+    background-color: #525252;
+}
+
+.red {
+    background-color: red;
+}
+
+.blue {
+    background-color: blue;
+}
